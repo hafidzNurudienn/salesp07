@@ -10,13 +10,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a Web Developer** as an Intern
+ 🔭 I’m currently working as a **Web Development** Intern at Imajiku Web Dev.
  
  🌱 I’m currently learning **React.JS, Next.JS, Laravel**
 
-💬 Ask me [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me [here](https://github.com/hafidzNurudienn/hafidzNurudienn/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **Emilia is a reference to the word 'Aemilia,' which in Latin means 'rival' or 'ambitious. -Re:0**
 
  </div>
  
